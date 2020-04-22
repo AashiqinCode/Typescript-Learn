@@ -7,6 +7,9 @@ Install Typescript compiler from npm as,
 >npm install -g tsc
 
 ## Compiling Typescript file 
+
  >tsc <filename>.tsc
- This will generate a javascript code,here comees the node.js(A Javascript Engine),it helps to convert the .js code to machine understandable code.
- >node <js_filename>
+ 
+This will generate a javascript code,here comees the node.js(A Javascript Engine),it helps to convert the .js code to machine understandable code.
+
+>node <js_filename>
